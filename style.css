@@ -270,7 +270,7 @@ font-weight: 700;
     
     .img1, .img2, .img3, .img4, .img5, .img6 {
         position: absolute;
-        transition: all 1s ease-in-out;
+        transition: all 0.80s ease-in-out;
         opacity: 1;  
     }
     
@@ -376,12 +376,11 @@ ul a{
     font-size: 14px; 
     color: white; 
 }
-/* General Footer Styling */
-/* General Footer Styling */
+
 footer {
-    background-color: #232f3e; /* Dark blue background */
+    background-color: #232f3e; 
     color: white;
-    padding: 0; /* Remove padding from the footer */
+    padding: 0; 
     font-family: Arial, sans-serif;
 }
 
@@ -390,8 +389,8 @@ footer {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    padding: 20px 0; /* Adjust padding as needed */
-    border-bottom: none; /* Remove the border-bottom */
+    padding: 20px 0; 
+    border-bottom: none; 
 }
 
 .footer-section {
@@ -412,7 +411,7 @@ footer {
 
 /* Bottom Section */
 .footer-bottom {
-    background-color: #34475a; /* Darker blue for the bottom panel */
+    background-color: #34475a; /
     padding: 15px 0;
     text-align: center;
 }
